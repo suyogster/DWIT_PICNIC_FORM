@@ -19,7 +19,7 @@ require("redirect.php");
         <p><?php echo "Batch: " . $_SESSION['batch']?></p>
         <p><?php echo "Phone no: " . $_SESSION['phone']?></p>
         <p><?php echo "Email: " . $_SESSION['email']?></p>
-        <caption>DWIT PICNIC FOOD PREFERENCE RESULT</caption>
+        <caption>Congratulation! You're food preference with personal details are listed in this page</caption>
         <thead>
         <tr>
             <th>Number</th>
